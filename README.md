@@ -18,7 +18,7 @@ Welcome to my GitHub profile! 👨‍💻 I'm a passionate full-stack developer,
 
 ## 📈 GitHub Stats
 
-![Nishant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NishantKafle&count_private=true&show_icons=true&theme=tokyonight)
+![Nishant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishant0919&count_private=true&show_icons=true&theme=tokyonight)
 
 ---
 
