@@ -30,11 +30,7 @@ Welcome to my GitHub profile! 👨‍💻 I'm a passionate full-stack developer,
 
 ## 🔭 Currently Working On
 
-🚀 **Krisi Connect** - My Agricultural IoT project using Arduino, Python, and YOLO for crop monitoring.
-
-👨‍💻 **MenuPlease** - A SaaS platform for restaurants and cafes to manage menus and orders with QR codes.
-
-💻 **Cinebook** - A social platform for movie lovers to share reviews, recommendations, and ratings.
+PrepNep - **PrepNep is an online platform offering MCQs for exams like MBBS and other entrance tests. It provides instant feedback by showing correct answers and tracking the number of correct responses to help students improve their exam readiness.**
 
 ---
 
@@ -55,17 +51,14 @@ Welcome to my GitHub profile! 👨‍💻 I'm a passionate full-stack developer,
 
 ## 🎮 Fun Facts About Me
 
-- 🏅 **Hackathon Winner** - Placed 2nd in BPC Hackfest and 3rd in Codefest 2023.
-- 🏆 **Best Software** - Won the Best Software award at Aarohan 1.0 during my school days.
+
 - 🎥 **Movie Buff** - I create edits of modern Bollywood and international films on Instagram and TikTok.
 
 ---
 
 ## 📧 Get in Touch
 
-- 📧 Email: [nishant@example.com](mailto:nishant@example.com)
-- 🌐 Website: [cinebook.xyz](https://cinebook.xyz)
-- 💬 Twitter: [@NishantTweets](https://twitter.com/NishantTweets)
+- 📧 Email: [nishantkafle20@gmail.com](mailto:nishant@example.com)
 
 ---
 
