@@ -24,7 +24,7 @@ Welcome to my GitHub profile! 👨‍💻 I'm a passionate full-stack developer,
 
 ## 📊 Top Languages
 
-![Nishant's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NishantKafle&layout=compact&theme=tokyonight)
+![Nishant's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishant0919&layout=compact&theme=tokyonight)
 
 ---
 
