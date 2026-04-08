@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nishant Kafle!
 
-Welcome to my GitHub profile! 👨‍💻 I'm a passionate full-stack developer, BCA student, and an enthusiast in building amazing projects. I specialize in **Web Development**, , and I love working on new technologies! 
+Welcome to my GitHub profile! 👨‍💻 I'm a passionate full-stack developer, BCA student, and an enthusiast in building amazing projects. I specialize in **Web Development**, , and I love working on new technologies!! 
 
 ---
 
